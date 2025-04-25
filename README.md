@@ -32,7 +32,7 @@ To automatically detect and infect or report pirated film download links from pl
     o Delete links using Telegram Bot API (if it’s your bot) or reporting system.
     o Auto-generate takedown emails for piracy-hosting websites.
     o Mark status: Deleted / Reported / Infected 
-  # send Mails to pritaed link owners# 
+  # send Mails to pritaed link owners
   ![Screenshot 2025-04-26 044125](https://github.com/user-attachments/assets/a635a138-9533-4ffa-9576-b746f17e7757)
 
 굊 5. Auto Report Generator

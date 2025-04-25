@@ -22,15 +22,18 @@ To automatically detect and infect or report pirated film download links from pl
         Collect all suspicious links
     
 � 3. Piracy Link Detector (AI filter)
+
    Use simple machine learning or keyword filtering:
     o If the link contains known piracy terms like watch free, leaked print, 480p, HD download, it’s marked as pirated.
     o Otherwise, marked as safe or unknown.
     
-뢐 4. Action Engine – Delete and Report
+뢐 4. Action Engine – Send Warn mail to the aunathorised owner ] 
    Attempt to:
     o Delete links using Telegram Bot API (if it’s your bot) or reporting system.
     o Auto-generate takedown emails for piracy-hosting websites.
-    o Mark status: Deleted / Reported / Infected
+    o Mark status: Deleted / Reported / Infected 
+  # send Mails to pritaed link owners# 
+  ![Screenshot 2025-04-26 044125](https://github.com/user-attachments/assets/a635a138-9533-4ffa-9576-b746f17e7757)
 
 굊 5. Auto Report Generator
      After scanning:

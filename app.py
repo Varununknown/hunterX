@@ -7,6 +7,7 @@ from imdb import IMDb
 import requests
 import datetime
 
+
 # Email function
 def send_email(to_email, subject, body):
     try:

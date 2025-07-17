@@ -1,8 +1,8 @@
-#An - #Anti Piracy Tool  [ Ai - CyberSecurity ]
+# An - Anti Piracy Tool  [ Ai - CyberSecurity ]
 
 Project Title: Piracy Hunter X – Smart AI Tool to Detect Piracy Links and Report, infect them.
 
-��� Project Goal:
+Project Goal:
 To automatically detect and infect or report pirated film download links from platforms like Telegram and websites, using film titles of recently released movies, and then generate an automatic report showing all the actions taken.
 
 
